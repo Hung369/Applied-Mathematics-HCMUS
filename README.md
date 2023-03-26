@@ -1,2 +1,2 @@
 # Linear-Algebra
-Gauss Algorithm
+Gauss and Gauss Jordan Algorithm
