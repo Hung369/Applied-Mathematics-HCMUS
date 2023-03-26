@@ -41,7 +41,7 @@ def Back_Substitution(x,a,n):
             x[i] = x[i] - a[i][j] * x[j]
 
         if a[i][i] == 0:
-            x[i] = x[i]
+            x[i] = 1
         else:
             x[i] = x[i] / a[i][i]
 
