@@ -1,2 +1,2 @@
-# Linear-Algebra
-Gauss and Gauss Jordan Algorithm for solving system of equations
+# Applied Mathematics
+HCMUS - Applied Mathematics - K21
